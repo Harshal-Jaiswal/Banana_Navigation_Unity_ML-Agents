@@ -11,7 +11,8 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 The Environment Follow the instructions below to explore the environment on your own machine! You will also learn how to use the Python API to control your agent.
 
 __Step 1: Clone the DRLND Repository__ 
-If you haven't already, please follow the instructions in the [DRLND GitHub repository to set up your Python environment](https://github.com/udacity/deep-reinforcement-learning#dependencies) . These instructions can be found in README.md at the root of the repository. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
+
+Follow the instructions in the [DRLND GitHub repository to set up your Python environment](https://github.com/udacity/deep-reinforcement-learning#dependencies) . These instructions can be found in README.md at the root of the repository. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
 
 
 __Step 2: Download the Unity Environment__
