@@ -1,5 +1,5 @@
 # Banana_Navigation_Unity_ML-Agents
-Project Overview:
+__Project Overview:__
 For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.
 
 ![Banana](https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif)
@@ -10,11 +10,11 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 The Environment Follow the instructions below to explore the environment on your own machine! You will also learn how to use the Python API to control your agent.
 
-Step 1: Clone the DRLND Repository 
+__Step 1: Clone the DRLND Repository__ 
 If you haven't already, please follow the instructions in the [DRLND GitHub repository to set up your Python environment](https://github.com/udacity/deep-reinforcement-learning#dependencies) . These instructions can be found in README.md at the root of the repository. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
 
 
-Step 2: Download the Unity Environment
+__Step 2: Download the Unity Environment__
 
 For this project, you will not need to install Unity - this is because we have already built the environment for you, and you can download it from one of the links below. You need only select the environment that matches your operating system:
 
@@ -29,5 +29,5 @@ Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/
 Then, place the file in the p1_navigation/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
 
 
-Step 3: Explore the Environment
+__Step 3: Explore the Environment__
 After you have followed the instructions above, open Navigation.ipynb (located in the p1_navigation/ folder in the DRLND GitHub repository) and experiment to learn how to use the Python API to control the agent.
